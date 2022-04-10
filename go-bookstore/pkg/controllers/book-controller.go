@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/anishgowda21/go-rest-api/go-bookstore/pkg/models"
-	"github.com/anishgowda21/go-rest-api/go-bookstore/pkg/utils"
+	"github.com/anishgowda21/go-projects/go-bookstore/pkg/models"
+	"github.com/anishgowda21/go-projects/go-bookstore/pkg/utils"
 	"github.com/gorilla/mux"
 )
 

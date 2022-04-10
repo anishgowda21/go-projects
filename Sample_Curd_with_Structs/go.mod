@@ -1,4 +1,4 @@
-module github.com/anishgowda21/go-rest-api/Sample_Curd_with_Structs
+module github.com/anishgowda21/go-projects/Sample_Curd_with_Structs
 
 go 1.17
 

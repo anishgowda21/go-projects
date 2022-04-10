@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/anishgowda21/go-rest-api/go-bookstore/pkg/routes"
+	"github.com/anishgowda21/go-projects/go-bookstore/pkg/routes"
 	"github.com/gorilla/mux"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 )

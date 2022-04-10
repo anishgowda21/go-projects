@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/anishgowda21/go-rest-api/go-bookstore/pkg/config"
+	"github.com/anishgowda21/go-projects/go-bookstore/pkg/config"
 	"github.com/jinzhu/gorm"
 )
 

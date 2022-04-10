@@ -1,4 +1,4 @@
-module github.com/anishgowda21/go-rest-api/go-bookstore
+module github.com/anishgowda21/go-projects/go-bookstore
 
 go 1.17
 

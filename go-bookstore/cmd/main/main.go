@@ -9,9 +9,9 @@ import (
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 )
 
-func main(){
+func main() {
 	r := mux.NewRouter()
 	routes.RegisterBookStoreRoutes(r)
-	http.Handle("/",r)
-	log.Fatal(http.ListenAndServe(":5000",r))
+	http.Handle("/", r)
+	log.Fatal(http.ListenAndServe(":5000", r))
 }
